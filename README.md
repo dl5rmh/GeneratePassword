@@ -1,6 +1,6 @@
 # Generate password plugin for Sublime Text 2
 
-Add generation of passwords in different strentghes to the command palette:
+Add generation of passwords in different strengthes to the command palette:
 
 * Generate short password: 6 to 8 human readable characters
 * Generate medium password: 9 to 13 human readable characters
