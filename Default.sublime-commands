@@ -1,0 +1,15 @@
+[
+	{
+		"caption": "Generate short password",
+		"command": "generate_short_password"
+	}, {
+		"caption": "Generate medium password",
+		"command": "generate_medium_password"
+	}, {
+		"caption": "Generate long password",
+		"command": "generate_long_password"
+	}, {
+		"caption": "Generate secure password",
+		"command": "generate_secure_password"
+	}
+]
